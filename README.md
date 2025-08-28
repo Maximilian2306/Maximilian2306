@@ -6,9 +6,9 @@ I enjoy working across different technologies – from **websites and apps** to 
 ---
 
 ## 🔹 Featured Projects 
-- 🕹️ [Minesweeper AI Clone](https://github.com/Maximilian2306/Minesweeper_AI_v2), [Website](https://maximilian2306.github.io/Minesweeper_AI_v2)   
+- 🕹️ [Minesweeper AI Clone](https://github.com/Maximilian2306/Minesweeper_AI_v2), => [Website](https://maximilian2306.github.io/Minesweeper_AI_v2)   
 - ✈️ Airline Management App (C#, WPF, SQL)  
-- 🖼️ [Project Gallery](https://github.com/Maximilian2306/Project-Gallery), [Website](https://maximilian2306.github.io/Project-Gallery)   
+- 🖼️ [Project Gallery](https://github.com/Maximilian2306/Project-Gallery), => [Website](https://maximilian2306.github.io/Project-Gallery)   
 
 ---
 
@@ -48,10 +48,6 @@ I enjoy working across different technologies – from **websites and apps** to 
 
 [![Kleine Spende](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Maximilian2306) • ![Profile views](https://komarev.com/ghpvc/?username=Maximilian2306)
 
----
-
-## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=Maximilian2306)
 
 <!--
 ---
