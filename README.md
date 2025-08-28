@@ -16,18 +16,18 @@ I enjoy working across different technologies – from **websites and apps** to 
 ## 📂 Featured Projects
 
 ### 🕹️ Minesweeper Clone with AI Integration
-- Hobby project
+- Hobby project [Website](https://maximilian2306.github.io/Minesweeper_AI_v2)  
 - Classic Minesweeper game built with Vanilla JS 
-- [Link to repository](https://maximilian2306.github.io/Minesweeper_AI_v2/) 
+- [Link to repository](https://github.com/Maximilian2306/Minesweeper_AI_v2) 
 
 ### ✈️ Airline Management App  
 - Desktop application with database integration  
 - Built with **C#, SQL and WPF**  
-- Development time: ~1 month 
+- Development time: ~1 month   
 
 ### 🖼️ Project Gallery
-- Personal project gallery to showcase different works
-- [Link to repository](https://maximilian2306.github.io/Project-Gallery/)
+- Personal project gallery to showcase different works [Website](https://maximilian2306.github.io/Project-Gallery)  
+- [Link to repository](https://github.com/Maximilian2306/Project-Gallery)
 
 ---
 
