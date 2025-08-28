@@ -6,9 +6,9 @@ I enjoy working across different technologies – from **websites and apps** to 
 ---
 
 ## 🔹 Featured Projects 
-- 🕹️ [Minesweeper AI Clone](https://github.com/Maximilian2306/Minesweeper_AI_v2), => [Website](https://maximilian2306.github.io/Minesweeper_AI_v2)   
+- 🕹️ [Minesweeper AI Clone](https://github.com/Maximilian2306/Minesweeper_AI_v2) => [Website](https://maximilian2306.github.io/Minesweeper_AI_v2)   
 - ✈️ Airline Management App (C#, WPF, SQL)  
-- 🖼️ [Project Gallery](https://github.com/Maximilian2306/Project-Gallery), => [Website](https://maximilian2306.github.io/Project-Gallery)   
+- 🖼️ [Project Gallery](https://github.com/Maximilian2306/Project-Gallery) => [Website](https://maximilian2306.github.io/Project-Gallery)   
 
 ---
 
