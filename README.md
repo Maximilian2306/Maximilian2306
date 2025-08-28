@@ -68,7 +68,7 @@ I regularly practice on **LeetCode** and other platforms to sharpen my problem-s
 ---
 
 ## 🌍 Find me online
-- [LinkedIn](www.linkedin.com/in/maximilian-hahn-2306aabc)  
+- [LinkedIn](https://linkedin.com/in/maximilian-hahn-2306aabc)  
 - [LeetCode](https://leetcode.com/u/Maxi_Lead_Coder/)   
 
 
