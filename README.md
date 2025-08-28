@@ -62,7 +62,8 @@ Completed courses in:
 ## 🧩 Competitive Programming
 I regularly practice on **LeetCode** and other platforms to sharpen my problem-solving skills.  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Maxi_Lead_Coder?theme=dark&ext=heatmap)   
+![LeetCode Stats](https://leetcard.jacoblin.cool/Maxi_Lead_Coder?theme=dark&ext=heatmap)  
+
 ![LeetCode badge](https://img.shields.io/badge/Maxi_Lead_Coder-orange?logo=leetcode)
 
 ---
