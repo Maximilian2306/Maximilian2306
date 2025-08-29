@@ -49,7 +49,7 @@ I enjoy working across different technologies – from **websites and apps** to 
 [![Kleine Spende](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/Maximilian2306) • ![Profile views](https://komarev.com/ghpvc/?username=Maximilian2306)
 
 ---
-
+<!--
 <h1 align="center">Hi, I'm <a  href="https://druxorey.github.io/">Druxorey</a></h1>
 <p align="center">Computer Science Student</p>
 
@@ -102,6 +102,7 @@ I enjoy working across different technologies – from **websites and apps** to 
 	<!-- <a href="https://www.reddit.com/user/DruxoreyOfficial/"><img src ="https://img.shields.io/badge/reddit-%23.svg?&style=for-the-badge&logo=reddit&logoColor=F8F8F2&color=44475A"></a>  -->	
 	<a href="mailto:druxorey@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=F8F8F2&color=44475A" /></a>
 </div>
+-->
 <!--
 ---
 
