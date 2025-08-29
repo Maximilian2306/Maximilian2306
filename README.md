@@ -1,5 +1,3 @@
-<img src="assets/falling-balls.svg" alt="falling balls animation" />
-
 <h1 align="center">Hi, I'm Maxi 👋</h1>
 <p align="center">
   🚀 Passionate about building <code>apps</code>, <code>tools</code>, and <code>services</code> combined with <code>business knowledge</code>.<br>
@@ -11,6 +9,8 @@
 <h2 align="left">📂 Featured Projects</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximilian2306&layout=compact&theme=radical" />
+
+<img align="right" src="assets/loading.svg" alt="loading animation" width="150" />
 
 <div align="left">
   <p>💻 <a href="https://github.com/Maximilian2306?tab=repositories"><b>All my repositories</b></a></p>
@@ -86,10 +86,14 @@
 
 <br>
 
-<h3 align="center">💡 Random Dev Quote</h3>
-<div align="center">
+<h3 align="left">💡 Random Dev Quote</h3>
+
+<img align="right" src="asstets/loading_v2.svg" alt="loading smbol" />
+
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
+
 
 
 <!--
