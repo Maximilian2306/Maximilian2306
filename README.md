@@ -88,7 +88,7 @@
 
 <h3 align="left">💡 Random Dev Quote</h3>
 
-<img align="right" src="asstets/loading_v2.svg" alt="loading smbol" />
+<img align="right" src="assets/loading_v2.svg" alt="loading smbol" />
 
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
