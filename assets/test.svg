@@ -1,0 +1,98 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="200" rx="12" fill="#0d1117"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="black" flood-opacity="0.4"/>
+    </filter>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+
+    <!-- Buchstaben für Loading -->
+    <symbol id="letter-L" viewBox="-50 -50 100 100">
+      <path d="M-30 -50 V50 M-40 40 H35" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+    <symbol id="letter-O" viewBox="-50 -50 100 100">
+      <path d="M-40 -40 H30 V50 M40 40 H-30 V-50" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+    <symbol id="letter-A" viewBox="-50 -50 100 100">
+      <path d="M-30 50 V-40 H40 M30 -50 V50 M-20 10 H20" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+    <symbol id="letter-D" viewBox="-50 -50 100 100">
+      <path d="M-30 50 V-50 M-20 -40 H-10 Q30 -40, 30 0 T-10 40 H-20" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+    <symbol id="letter-I" viewBox="-50 -50 100 100">
+      <path d="M-20 -40 H20 M0 -50 V50 M-20 40 H20" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+    <symbol id="letter-N" viewBox="-50 -50 100 100">
+      <path d="M-30 50 V-50 M30 -50 V50 M30 43 L-30 -43" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+    <symbol id="letter-G" viewBox="-50 -50 100 100">
+      <path d="M30 -40 H0 Q-30 -40, -30 0 T0 40 H30 M30 50 V5 H5" stroke="#f0e9a5" stroke-width="4" fill="none"/>
+    </symbol>
+
+    <symbol id="loading-icon" viewBox="0 0 100 100">
+      <g stroke-width="4" fill="none">
+        <use href="#letter-L" x="-40"/>
+        <use href="#letter-O" x="-27"/>
+        <use href="#letter-A" x="-13"/>
+        <use href="#letter-D" x="1"/>
+        <use href="#letter-I" x="12"/>
+        <use href="#letter-N" x="24"/>
+        <use href="#letter-G" x="38"/>
+      </g>
+    </symbol>
+  </defs>
+
+  <!-- Bodenlinie -->
+  <line x1="20" y1="150" x2="880" y2="150" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Bälle hinter dem Text -->
+  <g>
+    <circle cx="80" cy="150" r="12" fill="url(#g1)" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;50;150" dur="2s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="180" cy="150" r="10" fill="#2ea043" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;70;150" dur="2.4s" begin=".3s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="280" cy="150" r="11" fill="#f85149" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;60;150" dur="2.2s" begin=".6s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="380" cy="150" r="9" fill="#f0c929" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;65;150" dur="2.1s" begin=".1s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="480" cy="150" r="13" fill="#e36209" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;55;150" dur="2.3s" begin=".4s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="530" cy="150" r="12" fill="#39d353" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;60;150" dur="2.2s" begin=".5s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+  </g>
+
+  <!-- Loading-Text in der Mitte -->
+  <use href="#loading-icon" x="200" y="50" width="500" height="100" preserveAspectRatio="xMidYMid meet"/>  
+
+
+  <!-- Bälle vor dem Text -->
+  <g>
+    <circle cx="600" cy="150" r="14" fill="#f0c929" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;60;150" dur="2.1s" begin=".2s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="650" cy="150" r="12" fill="#e36209" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;80;150" dur="2.4s" begin=".4s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="700" cy="150" r="10" fill="#39d353" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;55;150" dur="2.3s" begin=".6s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="750" cy="150" r="11" fill="#58a6ff" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;65;150" dur="2.1s" begin=".1s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="800" cy="150" r="12" fill="#2ea043" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;70;150" dur="2.3s" begin=".3s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+    <circle cx="850" cy="150" r="9" fill="#f85149" filter="url(#shadow)">
+      <animate attributeName="cy" values="150;60;150" dur="2s" begin=".5s" repeatCount="indefinite" keySplines=".5 0 .5 1;.5 0 .5 1" calcMode="spline"/>
+    </circle>
+  </g>
+</svg>
