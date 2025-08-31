@@ -14,7 +14,7 @@
 
 <div align="left">
   <p>💻 <a href="https://github.com/Maximilian2306?tab=repositories"><b>All my repositories</b></a></p>
-  <p>🕹️ <a href="https://github.com/Maximilian2306/Minesweeper_AI_v2"><b>Minesweeper AI Clone</b></a> → <a href="https:/maximilian2306.github.io/Minesweeper_AI_v2">Website</a></p>  
+  <p>🕹️ <a href="https://github.com/Maximilian2306/Minesweeper_AI_v2"><b>Minesweeper AI Clone</b></a> → <a href="https://maximilian2306.github.io/Minesweeper_AI_v2">Website</a></p>  
   <p>🖼️ <a href="https://github.com/Maximilian2306/Project-Gallery"><b>Project Gallery</b></a> → <a href="https://maximilian2306.github.io/Project-Gallery">Website</a></p>  
   <p>✈️ <b>Airline Management App (C#, WPF, SQL)</b></p>  
 </div>
