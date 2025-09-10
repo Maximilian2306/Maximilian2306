@@ -6,7 +6,6 @@
 
 <hr>
 
-
 <h2 align="left">📂 Featured Projects</h2>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximilian2306&layout=compact&theme=radical" />
